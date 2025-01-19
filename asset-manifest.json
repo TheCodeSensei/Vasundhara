@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vasundhara/static/css/main.63a90c5e.css",
+    "main.js": "/Vasundhara/static/js/main.82d24795.js",
+    "static/js/453.6d713947.chunk.js": "/Vasundhara/static/js/453.6d713947.chunk.js",
+    "index.html": "/Vasundhara/index.html",
+    "main.63a90c5e.css.map": "/Vasundhara/static/css/main.63a90c5e.css.map",
+    "main.82d24795.js.map": "/Vasundhara/static/js/main.82d24795.js.map",
+    "453.6d713947.chunk.js.map": "/Vasundhara/static/js/453.6d713947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63a90c5e.css",
+    "static/js/main.82d24795.js"
+  ]
+}
